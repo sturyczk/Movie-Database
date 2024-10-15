@@ -7,7 +7,7 @@ public class test {
 		//test
 		//willthiswork
 		//another one
-		System.out.println("this is a test");
+System.out.println("Test");
 
 	}
 
